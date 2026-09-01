@@ -7,3 +7,8 @@ nav {
     background: #0ee87e;
     border: 3px solid red;
 }
+
+article {
+    background: yellow;
+    border: 3px solid green;
+}
