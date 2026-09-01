@@ -1,3 +1,9 @@
 body {
-    background: red;
+    background: #eeeeee;
+}
+
+nav {
+    height: 100px;
+    background: #0ee87e;
+    border: 3px solid red;
 }
